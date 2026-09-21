@@ -6,13 +6,13 @@
 <br />
 <div align="center">
 
-<p align="center"> <img width="100" height="25" src="https://komarev.com/ghpvc/?username=parasiticdesires&label=parasites%20&color=b9c4cd&style=flat" alt="parasiticdesires" /p
+<p align="center"> <img width="100" height="25" src="https://komarev.com/ghpvc/?username=lronmary&label=parasites%20&color=b9c4cd&style=flat" alt="lronmary" /p
 
 </div>
 <br />
 <div align="center">
 
- ${\textsf{\color{#96a3ae} i like parasites and ivantill }}$ 
+ ${\textsf{\color{#96a3ae} horror fixated }}$ 
 
 </div>
 <br />
